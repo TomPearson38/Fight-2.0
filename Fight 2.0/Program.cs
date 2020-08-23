@@ -108,7 +108,7 @@ namespace Fight_2._0
             }
             //Placed here so that it doesn`t need to be run every time the loop is followed through, only ran after the fight is over
             Console.ReadLine();
-                   
+            Console.WriteLine("Me changing the code");
         }
     }
 }
