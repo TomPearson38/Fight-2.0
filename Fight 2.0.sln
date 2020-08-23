@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fight 2.0", "Fight 2.0\Fight 2.0.csproj", "{62817819-9D4D-4B0D-B50E-F3589C59FA31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62817819-9D4D-4B0D-B50E-F3589C59FA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62817819-9D4D-4B0D-B50E-F3589C59FA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62817819-9D4D-4B0D-B50E-F3589C59FA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62817819-9D4D-4B0D-B50E-F3589C59FA31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67F5B35C-DACD-4CF3-8BD9-E2C5602AA2E0}
+	EndGlobalSection
+EndGlobal
